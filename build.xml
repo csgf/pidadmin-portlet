@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<project name="jModelTest2Parallel-portlet" basedir="." default="deploy">
+
+	<target name="jModelTest" depends="compile">
+		<ant dir="jModelTest2" target="default"/>
+	</target>
+
+	<import file="../build-common-portlet.xml" />
+
+</project>
