@@ -75,7 +75,7 @@ Usage
 
 pidAdmin allows to manage PIDs. Using its very simple interface user can create, list and delete them. As PIDs can be related to different portlets, they can be chosen in the menu.
 
-.. image:: images/input.jpg
+.. image:: images/input.png
    :align: center
 
 
@@ -88,7 +88,7 @@ References
 * CHAIN-REDS Conference: *"Open Science at the Global Scale: Sharing e-Infrastructures, Sharing Knowledge, Sharing Progress"* – March 31, 2015 – Brussels, Belgium [1_];
 
 ============
-Support
+Contributors
 ============
 Please feel free to contact us any time if you have any questions or comments.
 
